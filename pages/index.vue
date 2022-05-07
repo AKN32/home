@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <main class="container text-center">
-      <img class="p-4 rounded" src="/andreas.jpg" />
+      <img width="200px" class="p-4 rounded" src="/andreas2022.jpg" />
       <h1>Andreas Knops</h1>
       <p>Web-Developer based in Linz / Austria</p>
 
@@ -26,7 +26,7 @@
           target="_blank"
           >Xing</a
         >
-        <a class="btn btn-secondary" href="#" target="_blank">Twitter</a>
+        <!-- <a class="btn btn-secondary" href="#" target="_blank">Twitter</a> -->
 
         <a
           class="btn btn-secondary"
@@ -35,7 +35,7 @@
           >Instagram</a
         >
 
-        <a class="btn btn-secondary" href="#" target="_blank">GitHub</a>
+        <a class="btn btn-secondary" href="https://github.com/AKN32" target="_blank">GitHub</a>
 
         <p class="p-5 text-muted">Made with ❤️ in Linz</p>
       </div>
